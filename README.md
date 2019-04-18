@@ -4,6 +4,7 @@ Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and De
 Check the links below for the course and original github repo.
 
 https://www.coursera.org/learn/introduction-tensorflow
+
 https://github.com/lmoroney/dlaicourse
 
 
