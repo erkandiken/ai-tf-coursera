@@ -9,7 +9,7 @@ https://github.com/lmoroney/dlaicourse
 
 
 Create virtual environment, both folder and environment named as ENV,
-replace your preffered name with ENV:
+replace your preferred name with ENV:
 
     mkdir <ENV>
     cd <ENV>
